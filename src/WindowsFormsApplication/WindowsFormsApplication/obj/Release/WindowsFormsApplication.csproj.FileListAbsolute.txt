@@ -1,0 +1,48 @@
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe.config
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.pdb
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form1.resources
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.exe
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.pdb
+C:\Users\Пользователь\Desktop\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form2.resources
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe.config
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.pdb
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.AssemblyReference.cache
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.SuggestedBindingRedirects.cache
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form1.resources
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form2.resources
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Properties.Resources.resources
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.GenerateResource.cache
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.exe
+E:\Learing\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.pdb
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe.config
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.pdb
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.AssemblyReference.cache
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.SuggestedBindingRedirects.cache
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form1.resources
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form2.resources
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Properties.Resources.resources
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.GenerateResource.cache
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.exe
+E:\Learing\3 курс\PM.01\Экзамен\exam\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.pdb
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe.config
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.exe
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\bin\Release\WindowsFormsApplication.pdb
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.AssemblyReference.cache
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.SuggestedBindingRedirects.cache
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Form1.resources
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Properties.Resources.resources
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.GenerateResource.cache
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.exe
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.pdb
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Zadacha1.resources
+E:\Рабочий стол 2\src\WindowsFormsApplication\WindowsFormsApplication\obj\Release\WindowsFormsApplication.Zadacha2.resources
